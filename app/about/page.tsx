@@ -1,5 +1,5 @@
 import path from 'path';
-import { Fragment, Suspense } from 'react';
+import { Fragment } from 'react';
 import { readMDXFile } from '../utils';
 import { CustomMDX } from '../components/mdx';
 import Occupation from './occupation';
