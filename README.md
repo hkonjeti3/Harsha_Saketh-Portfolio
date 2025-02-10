@@ -39,14 +39,14 @@ bun run dev
 
 Now, visit http://localhost:3000 in your browser to see the website in action.
 
-✨ Features
-✅ Showcase of my skills & experience
-✅ Interactive animations & smooth scrolling
-✅ Dark & Light mode support
-✅ Performance-optimized UI & responsive design
-✅ Built-in blogging system using MDX
+## ✨ Features  
+✅ Showcase of my skills & experience  
+✅ Interactive animations & smooth scrolling  
+✅ Dark & Light mode support 🌗  
+✅ Performance-optimized UI & responsive design  
+✅ Built-in blogging system using MDX  
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 💼 Portfolio: harshakonjeti.com
 📩 Email: hkonjeti@iu.edu
 🔗 LinkedIn: linkedin.com/in/harsha-saketh-konjeti
