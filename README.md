@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio and project showcase! This website is a reflection of my **experience, skills, and work** in **software development, cloud computing, and automation**.
 
+website link: https://harsha-saketh.vercel.app/
+
 ## 🚀 Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)  
@@ -29,7 +31,7 @@ cd harsha-portfolio
 ```sh
 bun install
 ```
-
+ ### 4️⃣ Run command
 ```sh
 bun run dev
 ```
