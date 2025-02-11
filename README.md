@@ -46,8 +46,15 @@ Now, visit http://localhost:3000 in your browser to see the website in action.
 ✅ Performance-optimized UI & responsive design  
 ✅ Built-in blogging system using MDX  
 
-## 🤝 Connect With Me
-💼 Portfolio: harshakonjeti.com
-📩 Email: hkonjeti@iu.edu
-🔗 LinkedIn: linkedin.com/in/harsha-saketh-konjeti
-💻 GitHub: github.com/hkonjeti3
+## 🤝 Connect With Me  
+
+📂 **Portfolio**: [harshakonjeti.com](https://harshakonjeti.com)  
+
+📩 **Email**: [hkonjeti@iu.edu](mailto:hkonjeti@iu.edu)  
+
+🔗 **LinkedIn**: [linkedin.com/in/harsha-saketh-konjeti](https://linkedin.com/in/harsha-saketh-konjeti)  
+
+💻 **GitHub**: [github.com/hkonjeti3](https://github.com/hkonjeti3)  
+
+⭐ If you like this project, consider giving it a star! ⭐
+
