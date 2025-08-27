@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio and project showcase! This website is a reflection of my **experience, skills, and work** in **software development, cloud computing, and automation**.
 
-website link: https://harsha-saketh.vercel.app/
+website link: https://harshasaketh.com/
 
 ## 🚀 Tech Stack
 
