@@ -1,4 +1,3 @@
-import { FaAngleDoubleRight } from "react-icons/fa";
 import { WorkContainer } from "./work-container";
 import { WorkLeft } from "./work-left";
 import { WorkRight } from "./work-right";
