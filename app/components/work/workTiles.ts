@@ -12,7 +12,7 @@ export const workTiles: WorkTile[] = [
     description: "My Skills",
     title: "Technical Proficiency",
     skills: [
-      "Python", "Java", "C", "C#", "JavaScript", "TypeScript", "SQL",
+      "Python", "Next.js", "Java", "C", "C#", "JavaScript", "TypeScript", "SQL",
       "MongoDB", "React.js", "Node.js", "AWS", "Docker", "CI/CD", "Git",
       "HTML", "CSS", "Bootstrap", "Angular", "Flask", "PHP", "RESTful APIs",
       "Google Cloud Platform (GCP)", "Firebase", "Jenkins", "GitHub Actions", "SCRUM",
@@ -29,9 +29,9 @@ export const workTiles: WorkTile[] = [
       role: "Full Stack Developer Intern",
       company: "Y STEM & Chess",
       points: [
-        "Spearheaded source code migration from Angular to React, improving performance by 25%.",
-        "Created user stories, organized sprint planning, stand-ups, and retrospectives in an Agile SCRUM environment.",
-        "Developed login and signup APIs with role-based access control, increasing user engagement by 30%."
+        "Optimized load times and performance for a frontend supporting 1,200 students by migrating the student activity portal from Angular to React.",
+        "Increased engagement for 350+ daily active users by building RBAC login/signup and engineering interactive activity pages, delivering a smoother learning.",
+        "Reduced support requests and boosted usability by modularizing frontend components and integrating backend APIs for smoother data flow and an intuitive UI."
       ]
     },
     duration: "July 2024 - Nov 2024",
@@ -40,18 +40,18 @@ export const workTiles: WorkTile[] = [
     description: "Systems Engineer (Client: PayPal)",
     title: "Tata Consultancy Services",
     experience: {
-      role: "Systems Engineer",
-      company: "TCS (Client: PayPal)",
+      role: "Software Engineer",
+      company: "PayPal",
       points: [
-        "Key contributor to Merchant Reporting, managing 20+ workflows and resolving 50+ bugs.",
-        "Orchestrated product release cycles by evaluating user stories and implementing bug fixes.",
-        "Conducted unit tests and post-deployment verifications, ensuring 0 downtime releases.",
-        "Utilized tools like Kibana, Looker, and Splunk for root cause analysis and debugging.",
-        "Optimized report generation workflows, reducing time by 40% and memory usage by 30%.",
-        "Automated report tracking using Python and Shell Scripting, saving 4+ hours of manual work daily."
+        "Eliminated duplicate report deliveries and cut 2.5GB memory/batch by performing RCA using Splunk, Kibana, and CAL logs, adding checks across 4 Java/SpringBoot microservices, validating with JUnit/Mockito, and deploying via Jenkins (blue-green) for zero-downtime, safe rollback.",
+        "Saved 4+ hours/day and improved turnaround for 50M+ merchant reports/week by automating status checks in Python/Shell and triggering email notifications.",
+        "Restored reporting accuracy for 300+ merchant accounts and took end-to-end ownership of UDR report by leading RCA using logs, coordinating a cross-team war room, and driving upstream patches.",
+        "Mitigated a missed SLA incident by proposing a direct DB Preserved SLA for 7M+ active merchant reports by executing a controlled DB fix with rollback plan in 45 minutes, coordinated with SRE/Infra.",
+        "Revamped reliability across 20+ reporting workflows by maintaining and tuning production servers and release pipelines.",
+        "Prevented repeat incidents and increased system reliability by optimizing schedulers/pipelines and implementing 10+ automated alerts for delays and failures."
       ]
     },
-    duration: "July 2021 - July 2023",
+    duration: "April 2021 - July 2023",
   },
   {
     description: "Full Stack Developer Intern",
@@ -60,9 +60,8 @@ export const workTiles: WorkTile[] = [
       role: "Full Stack Developer Intern",
       company: "TCS",
       points: [
-        "Designed a relational database schema in PostgreSQL to store carbon emissions.",
-        "Developed RESTful APIs in Spring Boot, ensuring seamless API integration.",
-        "Built Angular front-end components from Adobe XD designs, ensuring smooth data flow."
+        "Achieved scalable storage for 50,000+ emissions records by designing a relational PostgreSQL schema and building RESTful APIs (Spring Boot), validating endpoints with Postman and adding server-side input validation",
+        "Facilitated real-time visualization for 20+ internal users by implementing Angular components (from Adobe XD) with service-layer data flows."
       ]
     },
     duration: "Feb 2021 - Apr 2021",

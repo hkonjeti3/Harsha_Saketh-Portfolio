@@ -50,7 +50,7 @@ Now, visit http://localhost:3000 in your browser to see the website in action.
 
 📂 **Portfolio**: [harshakonjeti.com](https://harshakonjeti.com)  
 
-📩 **Email**: [hkonjeti@iu.edu](mailto:hkonjeti@iu.edu)  
+📩 **Email**: [harsha0703.k@gmail.com](mailto:hharsha0703.k@gmail.com)  
 
 🔗 **LinkedIn**: [linkedin.com/in/harsha-saketh-konjeti](https://linkedin.com/in/harsha-saketh-konjeti)  
 

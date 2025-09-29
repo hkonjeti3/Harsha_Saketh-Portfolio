@@ -10,7 +10,7 @@ export const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.webp',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'hkonjeti@iu.edu',
+  email: 'harsha0703.k@gmail.com',
   github: 'https://github.com/hkonjeti3',
   linkedin: 'https://www.linkedin.com/in/harsha-saketh-konjeti/',
   locale: 'en-US',

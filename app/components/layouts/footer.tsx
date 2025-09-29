@@ -17,6 +17,9 @@ export default function Footer() {
               <li>
                 <Link href="/">{siteMetadata.title}</Link>
               </li>
+              <li>
+                Developed using Next.js
+              </li>
             </ul>
             <ul className="flex cursor-pointer items-center space-x-5">
               <li>

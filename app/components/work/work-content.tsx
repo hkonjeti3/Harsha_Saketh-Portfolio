@@ -43,7 +43,7 @@ export default function WorkContent({ work, progress = 0 }: WorkContentProps) {
             <ul className="list-none space-y-4 text-xl text-black "> {/* Increased font size */}
               {experience.points.map((point, index) => (
                 <li key={index} className="flex items-center gap-4 leading-relaxed">
-                  <FaAngleDoubleRight className="text-pink-500 text-2xl" /> {/* Pink arrow */}
+                  {/* <FaAngleDoubleRight className="text-pink-500 text-2xl" /> Pink arrow */}
                   <span className="text-lg md:text-xl">{point}</span> {/* Increased text size */}
                 </li>
               ))}

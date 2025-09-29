@@ -3,8 +3,23 @@ import { Project } from './types';
 export const projects: Project[] = [
   {
     title: 'Flight Flow Analysis',
+    role: 'Founder',
+    timeline: 'July 2025 - Sept 2025',
+    techStack: ['AWS', 'Lambda', 'CloudWatch', 'Google Sheets', 'Node.js', 'DynamoDB', 'Puppeteer', 'Ollama'],
+    description: [
+      'Processed 4,000+ job postings/day across ATS/job boards by building a scalable, serverless ETL pipeline in JavaScript (Node.js) on AWS (Lambda, DynamoDB, Secrets Manager) that extracts metadata from links.',
+      'Delivered <500ms response times and a highly reliable system by implementing a hybrid extraction pipeline (ATS APIs → HTML heuristics → renderer fallback → LLM rescue) with normalization.',
+      'Auto-generated 1:1 LinkedIn outreach using an LLM grounded in user preferences/resume data, with temperature controls for tone and consistency.',
+      'Published a Google Sheets Add-on in the Google Workspace Marketplace and provided end-to-end traceability by delivering secure, scalable endpoints with HMAC, CORS, centralized authorization, and CloudWatch-based structured observability.',
+    ],
+    src: 'joblink.webp',
+    color: '#dbeafe',
+    url: 'https://github.com/hkonjeti3/joblink-etl-MVP',
+  },
+  {
+    title: 'Flight Flow Analysis',
     role: 'Cloud Developer',
-    timeline: 'Jan 2023 - Present',
+    timeline: 'Oct 2024 - Nov 2024',
     techStack: ['BigQuery', 'App Engine', 'Cloud Storage', 'Flask', 'praw'],
     description: [
       'Developed a cloud-based flight data analytics platform integrating real-time airline delay data with public feedback.',
@@ -19,7 +34,7 @@ export const projects: Project[] = [
   {
     title: 'Secure Banking',
     role: 'Fullstack Developer',
-    timeline: 'Aug 2022 - Dec 2022',
+    timeline: 'Jan 2024 - May 2024',
     techStack: ['Angular', 'Spring Security', 'Spring Boot', 'PostgreSQL', 'Docker'],
     description: [
       'Designed a secure and scalable banking application with multi-factor authentication and role-based access control.',
@@ -34,7 +49,7 @@ export const projects: Project[] = [
   {
     title: 'LinC Art Gallery',
     role: 'Fullstack Developer',
-    timeline: 'May 2021 - Jul 2021',
+    timeline: 'Jan 2024 - May 2024',
     techStack: ['React.js', 'Node.js', 'MongoDB', 'Netlify', 'Render', 'Firebase'],
     description: [
       'Developed an interactive online art gallery platform supporting real-time bidding and event bookings.',
@@ -52,7 +67,7 @@ export const certifications: Project[] = [
   {
     title: 'AWS Certified Cloud Practitioner',
     role: 'AWS Certification',
-    timeline: 'Issued: Jan 2024',
+    timeline: 'Issued: Dec 2024',
     techStack: ['AWS', 'EC2', 'Lambda', 'S3'],
     description: [
       'Validated fundamental knowledge of cloud computing and AWS services.',
@@ -66,7 +81,7 @@ export const certifications: Project[] = [
   {
     title: 'Docker Foundations Professional Certificate',
     role: 'DevOps Certification',
-    timeline: 'Issued: Nov 2023',
+    timeline: 'Issued: Dec 2024',
     techStack: ['Docker', 'Kubernetes', 'CI/CD'],
     description: [
       'Mastered containerization concepts and deployment strategies using Docker.',

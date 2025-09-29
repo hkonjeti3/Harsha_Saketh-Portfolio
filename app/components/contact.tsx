@@ -6,7 +6,7 @@ export default function Contact() {
           Let&apos;s build <br></br> great products <br></br> together !!!
         </span>
         <span className="text-3xl md:text-6xl xl:text-8xl text-end">
-        <span className="underline">hkonjeti@iu.edu</span>
+        <span className="underline">harsha0703.k@gmail.com</span>
         </span>
       </div>
     </section>
